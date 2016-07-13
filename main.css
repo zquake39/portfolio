@@ -1,0 +1,54 @@
+body {
+	background-color: #e6e6e6;
+}
+
+.password {
+	font-size: 30px;
+}
+
+nav {
+	background-color: #f2f2f2;
+	border: 1px solid #dedede;
+	border-radius: 4px;
+	box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.055);
+	color: #888;
+	display: block;
+	margin: 8px 22px 8px 22px;
+	overflow: hidden;
+	width: 90%; 
+}
+
+#white1{
+	background-color: white;
+	margin: 20px;
+}
+
+.white3{
+	background-color: white;
+	margin: 20px;
+}
+
+
+.jumbotron {
+	height: 500px;
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg");
+	color: white;
+	text-shadow: 3px 3px black;
+	background-position: 30% 40%;
+
+}
+
+.table-style {
+	background-color: white;
+	margin: 50px;
+	padding: 10px;
+}
+
+.margin-form {
+	margin-left: 500px;
+}
+
+
+
+
+
